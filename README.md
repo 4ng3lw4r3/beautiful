@@ -11,8 +11,8 @@ Make sure you have [Python](https://www.python.org/downloads/) (version 3.8 or l
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/beautiful-lyrics-viewer.git
-    ```
+git clone https://github.com/yourusername/beautiful-lyrics-viewer.git
+```
 
 2. Navigate to the project directory:
 
